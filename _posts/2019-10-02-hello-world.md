@@ -14,3 +14,15 @@ We'll be hosting the blog with GitHub Pages + Jekyll. This lets us write posts u
 Here's an embedded image of the code for this page:
 ![Jekyll example](/assets/img/2019-10-02-hello-world/jekyll_example.png)
 
+It's also very easy to format inline code snippets, like `SUM(Sales) > 1,000,000`, or code block like the following:
+
+~~~
+IF [Profit] > 0 
+	THEN 'Profitable' 
+ELSEIF [Profit] = 0 
+	THEN 'Break even' 
+ELSE 'unprofitable' 
+END
+~~~
+
+
