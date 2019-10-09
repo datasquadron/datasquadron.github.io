@@ -3,9 +3,14 @@ layout: post
 title: "Converting a Field to Boolean"
 date: 2019-??-??
 ---
-Draft from Transcript form YouTube Video
+YouTube Video Transcript
 
-This blog will cover how to convert a field in Tableau Prep to a Boolean value.
+<div class="video-container">
+	<iframe class="video" src="https://www.youtube.com/embed/BhomqvmGIVQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+**How to Convert a Field in Tableau Prep to Boolean**
 
 Tableau Prep does not an option to easily convert
 a True/False or 0/1 value.
