@@ -14,7 +14,7 @@ Problem:
  how to propagate a value from one row to all the other rows
 in a data set
 
-in this example I have the date field that is only in one row and
+in this example I  have the date field that is only in one row and
 we want this to spread to all the other rows this is what the data rows look
 like when you expand them out we want all these other values to be the same
 date as this one value here to do that I will first create a calculated field
