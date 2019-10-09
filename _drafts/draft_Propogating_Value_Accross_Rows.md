@@ -5,13 +5,13 @@ date: 2019-??-??
 ---
 Draft from Transcript form YouTube Video
 
-https://www.youtube.com/watch?v=BhomqvmGIVQ&list=PL0s1hXPe0a02dGZ_WhDeUjllvWD1cZ8uB
-
+<div class="video-container">
+	<iframe class="video" src="https://www.youtube.com/embed/BhomqvmGIVQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 How to Propagate a Value Across Multiple Rows
 
 Problem:
- how to propagate a
-value from one row to all the other rows
+ how to propagate a value from one row to all the other rows
 in a data set
 
 in this example I have the date field that is only in one row and
