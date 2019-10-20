@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to Propagate a Value Across Multiple Rows"
-date: 2019-??-??
+date: 2019-10-01
 ---
 Draft from Transcript form YouTube Video
 
