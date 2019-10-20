@@ -1,3 +1,50 @@
-name: Data Squadron Blog
-markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
+title: Data Squadron || Taking care of difficult stuff since 2011
+baseurl: /
+permalink: '/:title/'
+collections:
+  posts:
+    permalink: '/posts/:title/'
+palette: blue
+header:
+  title: Data Squadron
+  logo_img: images/logo.png
+  has_nav: true
+  menu:
+    actions:
+      - label: Newsletter
+        url: /signup
+footer:
+  logo_img: images/logo_alt.png
+  tagline: Solving difficult stuff since 2011
+  has_nav: true
+  nav_title: Company
+  has_social: true
+  social_title: Community
+  has_subscribe: true
+  subscribe_title: Subscribe
+  subscribe_content: Stay up to date with our latest developments.
+  content: '&copy; Data Squadron. All rights reserved.'
+  links:
+    - text: Handcrafted by BlackOps.one
+      url: 'https://www.blackops.one'
+      new_window: true
+sass:
+  indentWidth: 4
+  style: nested
+  precision: 10
+plugins:
+  - jekyll-menus
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - ssg-build.sh
+  - LICENSE.md
+  - README.md
+  - netlify.toml
+  - stackbit-build.sh
+  - stackbit-pull.js
