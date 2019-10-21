@@ -1,10 +1,15 @@
 ---
-title: Contact
+title: Contact Us
+subtitle: >-
+  What to expect?
+img_path: images/11.jpg
 menus:
   secondary:
-    weight: 3
-    title: Contact
-layout: contact
+    weight: 1
+    title: Contact Us
+layout: page
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus tortor pretium ligula.
+We will get back to you as soon as possible!
+
+(contact form goes here)

@@ -1,9 +1,9 @@
-title: Data Squadron || Taking care of difficult stuff since 2011
+title: Data Squadron || Est. 2011
 baseurl: /
 permalink: '/:title/'
 collections:
   posts:
-    permalink: '/posts/:title/'
+    permalink: '/blog/:year/:month/:day/:title'
 palette: blue
 header:
   title: Data Squadron
@@ -11,8 +11,8 @@ header:
   has_nav: true
   menu:
     actions:
-      - label: Newsletter
-        url: /signup
+      - label: Contact Us
+        url: /contact
 footer:
   logo_img: images/logo_alt.png
   tagline: Solving difficult stuff since 2011
@@ -21,9 +21,9 @@ footer:
   has_social: true
   social_title: Community
   has_subscribe: true
-  subscribe_title: Subscribe
-  subscribe_content: Stay up to date with our latest developments.
-  content: '&copy; Data Squadron. All rights reserved.'
+  subscribe_title: Contact
+  subscribe_content: Leave your email and we'll get back to you.
+  content: '&copy; 2011-2019 Data Squadron. All rights reserved.'
   links:
     - text: Handcrafted by BlackOps.one
       url: 'https://www.blackops.one'

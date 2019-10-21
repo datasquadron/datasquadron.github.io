@@ -4,46 +4,39 @@ sections:
   - section_id: hero
     component: hero_block.html
     type: heroblock
-    image: images/hero.png
+    # image: images/hero.png
     title: We take care of difficult things
     content: >-
       Data Squadron is a tight-knit network of onshore and offshore software engineering, data analytics and program management professionals who collaborate on consulting projects. 
     actions:
       - label: What we do
-        url: /features
+        url: /what-we-do
   - section_id: features
     component: features_block.html
     type: featuresblock
     bg: gray
     title: What We Do
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      We do all sorts of cool stuff, helping businesses of all sizes, from Fortune 10 to local moms and pops shops to get where they want to be. We are versatile, flexible, and ideally suited for projects that require a fast-moving multi-talented team. 
     featureslist:
-      - title: The Best Feature of Your Services
+      - title: Great teams on-demand
         image: images/feature1.png
         content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+          We analyze what kinds of expertise your project requires, and align our resources for your assured success.
         actions:
           - label: Learn More
             url: /features
-      - title: Awesome Feature of Your Services
+      - title: Deep data understanding
         image: images/feature2.png
         content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+          We understand data; we thrive when a ton of date makes little to no sense - we analyze it, organize it, visualize it, and provide actionable and deeply meaningful insights to propel your business forward. 
         actions:
           - label: Learn More
             url: /features
-      - title: Cool Feature of Your Services
+      - title: Seattle local
         image: images/feature3.png
         content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+          Seattle area is special when it comes to business challenges, technical stacks, and talent. We are experts on all ins and outs of what it takes to thrive here and we are here to help, whether you're in Redmond, Bellevue, Capitol Hill, Kirkland, Everett, Kent or anywhere in between and beyond. 
         actions:
           - label: Learn More
             url: /features
@@ -53,33 +46,28 @@ sections:
     bg: white
     title: Testimonials
     subtitle: >-
-      Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales. 
+      We are in the business of total satisfaction guarantee. But don't take our word for it! 
     reviews:
-      - author: John Doe
+      - author: Mrs. Habadasher
         avatar: images/review1.jpg
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-      - author: Jane Roe
+          Wow. Just wow. I've never seen such beautiful data lakes!
+      - author: Emmet Brown
         avatar: images/review2.jpg
         content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin, vel posuere justo laoreet.
-      - author: Richard Roe
+          This is the future, right here. It's so beyond where an average time-travel equipped DeLorean could go. Great Scott!
+      - author: Michael Scott
         avatar: images/review3.jpg
         content: >-
-          Integer consectetur purus neque, ac porttitor enim convallis vitae.
-          Interdum et malesuada fames ac ante ipsum primis in faucibus.
+          As a paper company, Dunder Mifflin is in business of selling happiness. And Data Squadron covered us with insights top to bottom. Great experience. That's what she said!
   - section_id: call-to-action
     component: cta_block.html
     type: ctablock
-    title: This Is Call To Action Block!
-    subtitle: This is an optional description for the call to action block.
+    title: Let's get started!
+    subtitle: Set your business up for success. Talk to us about where you want to be, and we'll offer a free evaluation, analysis, and a clear path forward!
     actions:
       - label: Get Started
-        url: /signup
+        url: /contact
   - section_id: recent-posts
     component: posts_block.html
     type: postsblock
