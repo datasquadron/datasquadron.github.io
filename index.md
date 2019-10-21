@@ -25,21 +25,21 @@ sections:
           We analyze what kinds of expertise your project requires, and align our resources for your assured success.
         actions:
           - label: Learn More
-            url: /features
+            url: /what-we-do
       - title: Deep data understanding
         image: images/feature2.png
         content: >-
           We understand data; we thrive when a ton of date makes little to no sense - we analyze it, organize it, visualize it, and provide actionable and deeply meaningful insights to propel your business forward. 
         actions:
           - label: Learn More
-            url: /features
+            url: /what-we-do
       - title: Seattle local
         image: images/feature3.png
         content: >-
           Seattle area is special when it comes to business challenges, technical stacks, and talent. We are experts on all ins and outs of what it takes to thrive here and we are here to help, whether you're in Redmond, Bellevue, Capitol Hill, Kirkland, Everett, Kent or anywhere in between and beyond. 
         actions:
           - label: Learn More
-            url: /features
+            url: /what-we-do
   - section_id: reviews
     component: reviews_block.html
     type: reviewsblock
