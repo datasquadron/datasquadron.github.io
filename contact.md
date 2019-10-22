@@ -1,8 +1,7 @@
 ---
 title: Contact Us
 subtitle: >-
-  What to expect?
-img_path: images/11.jpg
+  Let's talk!
 menus:
   secondary:
     weight: 1

@@ -5,7 +5,7 @@ sections:
     component: content_block.html
     type: contentblock
     bg: gray
-    image: images/feature1.png
+    image: images/feature2.png
     title: At your service
     content: >-
       Data Squadron is a tight-knit network of onshore and offshore software engineering, data analytics and program management professionals who collaborate on consulting projects. We have worked together since 2011 and have a proven track record of delivering quality results on a tight timeline with minimal headaches. We are versatile, flexible, and ideally suited for projects that require a fast-moving multi-talented team. 
