@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Removing Duplicate Records"
-date: 2019-??-??
+date: 2019-11-11
 ---
 YouTube Video Transcript
 
