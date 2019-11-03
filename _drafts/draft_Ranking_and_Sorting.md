@@ -3,10 +3,9 @@ layout: post
 title: "Ranking and Sorting"
 date: 2019-12-01
 ---
-YouTube Video Transcript
 
 <div class="video-container">
-	<iframe class="video" src="" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe class="video" src="https://www.youtube.com/embed/o7lIQqINyWY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
@@ -14,10 +13,9 @@ YouTube Video Transcript
 
 Problem: Tableau Prep does not an option to rank or sort rows.
 
+If you've used Tableau Desktop, you know that includes some very useful table calculations like rank and
+index for determining the order of results after an aggregation calculation. But unfortunately Tableau Prep currently lacks those functions. But there is a workaround in Tableau Prep.
 
+The trick is to create a unique sorting key for each row join it onto itself and then count the number of rows less than or equal to this value.
 
-Here's an example of a draft post. It can be pushed to the repo but will not be published to the site.
-
-When it's ready for publishing, it should be moved to the `_posts` directory and renamed with its publication date.
-
-Only thing that might be a little annoying is updating the images directory name to match the final post file name.
+This solution was inspired by Jose Cherian of Technowisp.com 
