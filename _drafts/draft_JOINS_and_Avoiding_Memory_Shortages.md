@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "JOINS and Avoiding Memory Shortages"
-date: 2019-10-01
+date: 2019-11-21
 ---
 YouTube Video Transcript
 
