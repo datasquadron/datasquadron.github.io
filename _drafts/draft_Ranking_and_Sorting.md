@@ -6,7 +6,7 @@ date: 2019-12-01
 YouTube Video Transcript
 
 <div class="video-container">
-	<iframe class="video" src="" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe class="video" src="https://www.youtube.com/embed/o7lIQqINyWY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
