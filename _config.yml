@@ -16,9 +16,9 @@ header:
 footer:
   logo_img: images/logo_alt.png
   tagline: Solving difficult stuff since 2011
-  has_nav: true
+  has_nav: false
   nav_title: Company
-  has_social: true
+  has_social: false
   social_title: Community
   has_subscribe: true
   subscribe_title: Contact

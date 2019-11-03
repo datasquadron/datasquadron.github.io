@@ -2,12 +2,10 @@
 layout: post
 title: "Converting a Field to Boolean"
 date: 2019-11-02
+cover: images/data_pointers_prep.png
+excerpt: "Let's solve this: Tableau Prep does not have an option to convert a field to Boolean."
 ---
-
-<div class="video-container">
-	<iframe class="video" src="https://www.youtube.com/embed/uANaJMpcJG0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
+{% youtube uANaJMpcJG0 %}
 
 **How to Convert a Field in Tableau Prep to Boolean**
 
