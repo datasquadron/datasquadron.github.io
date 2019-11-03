@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to Propagate a Value Across Multiple Rows"
-date: 2019-12-12
+date: 2019-11-04
 ---
 
 <div class="video-container">

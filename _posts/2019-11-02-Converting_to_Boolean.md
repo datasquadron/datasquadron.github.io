@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Converting a Field to Boolean"
-date: 2019-10-01
+date: 2019-11-02
 ---
 
 <div class="video-container">
