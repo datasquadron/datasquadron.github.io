@@ -11,6 +11,8 @@ date: 2019-10-01
 
 **How to Convert a Field in Tableau Prep to Boolean**
 
+Problem: Tableau Prep does not have an option to convert a field to Boolean
+
 In this episode of Tableau Prep Pointers, we explore techniques for converting a text field to Boolean.
 
 For example, our data source includes a field called Order Priority with these values:
