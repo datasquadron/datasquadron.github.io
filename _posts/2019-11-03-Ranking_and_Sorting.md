@@ -3,7 +3,7 @@ layout: post
 title: "Ranking and Sorting in Tableau Prep"
 date: 2019-11-03
 cover: images/data_pointers_prep.png
-excerpt: "Let's solve this: Tableau Prep does not an option to rank or sort rows."
+excerpt: "Let's solve this: Tableau Prep does not have an option to rank or sort rows."
 ---
 {% youtube o7lIQqINyWY %}
 
@@ -16,4 +16,4 @@ index for determining the order of results after an aggregation calculation. But
 
 The trick is to create a unique sorting key for each row join it onto itself and then count the number of rows less than or equal to this value.
 
-This solution was inspired by Jose Cherian of Technowisp.com 
+This solution was inspired by Jose Cherian of Technowisp.com
