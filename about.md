@@ -6,9 +6,11 @@ sections:
     type: contentblock
     bg: gray
     # image: images/feature2.png
-    title: At your service
+    title: Lean, agile, cross-disciplinary
     content: >-
-      Data Squadron is a tight-knit network of onshore and offshore software engineering, data analytics and program management professionals working to advance understanding and collaboration between data and developer communities. Check out our videos, say hello at meetups, and let us know how we can help. 
+      Data Squadron is a tight-knit network of onshore and offshore software engineering, data analytics and program management professionals working to advance understanding and collaboration between data and developer communities. Check out our videos, say hello at meetups, and let us know how we can help.
+      
+      Here are the capabilities of our team:
 
 
       ### Data Engineering
