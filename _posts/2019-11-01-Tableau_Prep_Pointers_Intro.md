@@ -2,13 +2,13 @@
 layout: post
 title: "Introduction to Tableau Prep Pointers"
 date: 2019-11-01
-youtube: k_inzoG7jbo
+youtube: EsINtgdH59w
 cover: images/cover.png
-excerpt: "As Tableau already includes powerful features for combining data from different sources and shaping for your visualizations, you may be wondering why you need Tableau Prep at all?"
+excerpt: "A video series where we share tips and techniques we’ve learned from using Tableau Prep on real client projects"
 pin_to_hero: true
 ---
 
-{% youtube k_inzoG7jbo %}
+{% youtube EsINtgdH59w %}
 
 **Introduction to Tableau Prep Pointers**
 
