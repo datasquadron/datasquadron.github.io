@@ -24,4 +24,4 @@ As Tableau already includes powerful features for combining data from different 
 - Every operation is captured in a change history that you can inspect and reorder.
 - Like the desktop version, it’s all done in a very visual, intuitive way that requires minimal coding.
 
-We’ll dive into these features and more in future episodes, so please click the Subscribe button to get notified when we publish a new one. Thanks for watching!
+We’ll dive into these features and more in future episodes. Please click the Subscribe button to get notified when we publish a new one. Thanks for watching!
