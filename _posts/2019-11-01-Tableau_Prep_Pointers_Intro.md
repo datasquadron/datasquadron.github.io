@@ -5,6 +5,7 @@ date: 2019-11-01
 youtube: k_inzoG7jbo
 cover: images/cover.png
 excerpt: "As Tableau already includes powerful features for combining data from different sources and shaping for your visualizations, you may be wondering why you need Tableau Prep at all?"
+pin_to_hero: true
 ---
 
 {% youtube k_inzoG7jbo %}
