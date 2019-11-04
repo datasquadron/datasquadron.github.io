@@ -16,14 +16,12 @@ If you’re a Tableau Desktop user, you’ve probably heard that Tableau recentl
 
 As Tableau already includes powerful features for combining data from different sources and shaping for your visualizations, you may be wondering why you need Tableau Prep at all? Here are a few reasons:
 
-- Tableau Prep lets you create a step by step flow so that each operation can act upon the results of the previous step. 
-- Within a step you can see a preview of exactly how that step is affecting your data as a distribution, or with a subset of your data.
-- You can create steps that clean, filter and include calculations.
-- You can split your data flow into branches then merge them back together. 
-- When joining different data sources, you can see the details of what data will be included or excluded using the graphic interface. 
-- You can aggregate or pivot your data.
+- Tableau Prep lets you create a step by step flow so each operation acts upon the results of the previous step.
+- Within a step you can see preview exactly how that step is affecting your data either as a distribution, or as a subset of your data.
+- You can create steps that clean, filter, pivot, aggregate and include calculations.
+- You can split your data flow into branches then merge them back together.
+- When joining flows, you can see and affect what data will be included or excluded using the graphic interface.
 - Every operation is captured in a change history that you can inspect and reorder.
-- And like the desktop version, it’s all done in a very visual, intuitive way that requires minimal coding.
-  
-We’ll dive into these features and more in future episodes, so please click the Subscribe button to get notified when we publish a new one. Thanks for watching!
+- Like the desktop version, it’s all done in a very visual, intuitive way that requires minimal coding.
 
+We’ll dive into these features and more in future episodes, so please click the Subscribe button to get notified when we publish a new one. Thanks for watching!
