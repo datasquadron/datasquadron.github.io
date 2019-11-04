@@ -1,4 +1,4 @@
-title: Data Squadron || Est. 2011
+title: Data Squadron || Data engineering, analytics and visualization experts 
 baseurl: /
 permalink: '/:title/'
 collections:
@@ -15,7 +15,7 @@ header:
         url: /contact
 footer:
   logo_img: images/logo_alt.png
-  tagline: Solving difficult stuff since 2011
+  tagline: Data engineering, analytics and visualization experts
   has_nav: false
   nav_title: Company
   has_social: false
@@ -23,7 +23,7 @@ footer:
   has_subscribe: true
   subscribe_title: Contact
   subscribe_content: Leave your email and we'll get back to you.
-  content: '&copy; 2011-2019 Data Squadron. All rights reserved.'
+  content: '&copy; 2019 Data Squadron. All rights reserved.'
   links:
     - text: Handcrafted by BlackOps.one
       url: 'https://www.blackops.one'
