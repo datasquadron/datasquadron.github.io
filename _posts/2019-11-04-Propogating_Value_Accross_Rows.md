@@ -2,11 +2,11 @@
 layout: post
 title: "How to Propagate a Value Across Multiple Rows"
 date: 2019-11-04
+cover: images/data_pointers_prep.png
+excerpt: "Let's solve this: How to propagate a value from one row of your data into other rows of your data source."
 ---
+{% youtube BhomqvmGIVQ %}
 
-<div class="video-container">
-	<iframe class="video" src="https://www.youtube.com/embed/BhomqvmGIVQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
 **How to Propagate a Value Across Multiple Rows**
 
 What if you have a value that is present in only one row of your data but would like to apply it to all rows?
