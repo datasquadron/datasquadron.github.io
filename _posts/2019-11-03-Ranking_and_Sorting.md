@@ -2,7 +2,7 @@
 layout: post
 title: "Ranking and Sorting in Tableau Prep"
 date: 2019-11-03
-cover: images/data_pointers_prep.png
+cover: images/ranking_and_sorting.png
 excerpt: "Let's solve this: Tableau Prep does not have an option to rank or sort rows."
 ---
 {% youtube o7lIQqINyWY %}
