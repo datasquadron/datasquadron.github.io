@@ -29,3 +29,9 @@
 
     [context.preview]
         command = "bundle exec jekyll build --future --drafts"
+
+[[redirects]]
+    from = "/tc19"
+    to = "https://cutt.ly/tc19"
+    status = 200
+    force = true
