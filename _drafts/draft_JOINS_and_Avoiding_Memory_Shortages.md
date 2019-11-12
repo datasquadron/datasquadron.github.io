@@ -10,7 +10,7 @@ YouTube Video Transcript
 </div>
 
 
-**Creating Ranks in Tableau Prep**
+**JOINS and Avoiding Memory Shortages**
 
 Problem: Tableau Prep does not an option to rank or sort rows.
 
