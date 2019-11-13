@@ -32,39 +32,49 @@ layout: body
     </article><!-- .post -->
 
     <!-- Next/previous post navigation TBD -->
-    <!--
+    
     <nav class="read-next">
+    {% if page.previous %}
+        {% assign previous = page.previous %}
+    {% else %}
+        {% assign previous = site.posts[0] %}
+    {% endif %}
       <h2 class="read-next-title">Read Next</h2>
       <div class="post-feed">
         <article class="post post-card">
           <div class="post-card-inside">
-            <a class="post-card-thumbnail" href="#"><img src="#" alt="" /></a>
+            <a class="post-card-thumbnail" href="{{previous.url}}"><img src="{{site.baseurl}}{{previous.cover}}" alt="" /></a>
             <div class="post-card-content">
               <header class="post-header">
-                <h3 class="post-title"><a href="#" rel="bookmark">Previous Post Title</a></h3>
+                <h3 class="post-title"><a href="{{previous.url}}" rel="bookmark">{{previous.title}}</a></h3>
               </header>
               <footer class="post-meta">
-                <time class="published" datetime="">Previous post date</time>
+                <time class="published" datetime="{{ previous.date | date: '%Y-%m-%d %H:%M' }}">{{previous.date | date: '%A, %B %e, %Y' }}</time>
               </footer>
             </div>
           </div>
         </article>
+        
+    {% if page.next %}
+      {% assign next = page.next %}
         <article class="post post-card">
           <div class="post-card-inside">
-            <a class="post-card-thumbnail" href="#"><img src="#" alt="" /></a>
+            <a class="post-card-thumbnail" href="{{next.url}}"><img src="{{site.baseurl}}{{next.cover}}" alt="" /></a>
             <div class="post-card-content">
               <header class="post-header">
-                <h3 class="post-title"><a href="#" rel="bookmark">Next Post Title</a></h3>
+                <h3 class="post-title"><a href="{{next.url}}" rel="bookmark">{{next.title}}</a></h3>
               </header>
               <footer class="post-meta">
-                <time class="published" datetime="">Next post date</time>
+                <time class="published" datetime="{{ next.date | date: '%Y-%m-%d %H:%M' }}">{{next.date | date: '%A, %B %e, %Y' }}</time>
               </footer>
             </div>
           </div>
         </article>
-      </div>
+    {% else %}
+      {% assign last lastPostIndex = site.posts | size | minus: 1 %}
+      {% assign next = site.posts[lastPostIndex] %}
+    {% endif %}
     </nav>
-    -->
   
   </div><!-- .inner-medium -->
 </div><!-- .outer-->
