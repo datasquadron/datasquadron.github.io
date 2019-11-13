@@ -6,3 +6,7 @@ _site
 # We don't have those yet
 node_modules
 vendor
+
+
+# to allow CI/CD deployment when they have older point versions of bundler
+Gemfile.lock

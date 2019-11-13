@@ -8,13 +8,13 @@ $font: (
 
 // Palette.
 $palette: (
-  primary:           #273777,
+  primary:           rgba(9,25,79,1),
   secondary:           darken(#4c5267, 15%),
   meta:                lighten(#4c5267, 20%),
   border:              lighten(#4c5267, 58%),
   bg:                #f7f9fb,
-  accent:            #1d2d6e,
-  accent-alt:        #6ba164,
+  accent:            #09194f,
+  accent-alt:        rgba(0,129,138,1),
   accent-purple:     #b5267b,
   accent-purple-alt: #632695,
   accent-green:      #438945,
