@@ -10,8 +10,8 @@ As usual, Tableau Conference 2019 was chock full of informative sessions, all of
 
 ---
 ## Best Practices for Flow Performance in Data Prep
-Level: Beginner
-SquadRating: 
+
+**Level**: Beginner | **SquadRating:** :star::star::star::star::star: (5 out of 5)
 
 Really awesome explanation of how Prep works and all the ways you can optimize performance. 
 
@@ -19,8 +19,8 @@ Really awesome explanation of how Prep works and all the ways you can optimize p
 
 ---
 ## Data Prep: Advanced Prep Features
-Level: Intermediate
-SquadRating: 
+
+**Level:** Intermediate | **SquadRating:** 
 
 Covers Data Interpretation, groups and data roles, scripts, LOD with Joins. Also an interesting lesson in credit card cash backs. Publishing data role. Script to lookup from an API. TabPy usually shown for running data science models, but can be used to hit an API. "Divide and Conquer"
 
@@ -28,15 +28,15 @@ Covers Data Interpretation, groups and data roles, scripts, LOD with Joins. Also
 
 ---
 ## The Better Builder: Automating Data Preparation with Prep Builder and Conductor
-Level: Beginner
-SquadRating: 
+
+**Level:** Beginner | **SquadRating:** :star::star::star::star::star: (5 out of 5)
 
 {% youtube ZLPX_lNV0do %}
 
 ---
 ## Texas State University: Tips and Tricks for Tracking People Over Time with Tableau Prep Builder
-Level: Intermediate
-SquadRating: 
+
+**Level:** Intermediate | **SquadRating:** 
 
 Lots of hands on demos. Real-world tips and tricks. Good examples of data densification. Internal vs external scaffolding.
 
@@ -44,15 +44,13 @@ Lots of hands on demos. Real-world tips and tricks. Good examples of data densif
 
 ---
 ## Lake County Health Dept: Tableau Prep Builder and Conductor at Enterprise Scale
-Level: Intermediate
-SquadRating: 
 
 {% youtube aBzIZaSa7Ik %}
 
 ---
 ## Tinuiti: Using Tableau Prep Builder and Conductor to Wrangle Marketing Data
-Level: Intermediate
-SquadRating: 
+
+**Level:** Intermediate | **SquadRating:** 
 
 Good case study of using Prep for data cleaning
 
@@ -60,8 +58,8 @@ Good case study of using Prep for data cleaning
 
 ---
 ## Center for Creative Leadership: Utilizing Tableau Prep to Put Your Data on a Diet
-Level: Intermediate
-SquadRating: 
+
+**Level:** Intermediate | **SquadRating:** 
 
 Survey data very wide. 360 survey data has multiple row about the same person as different rater types. Few dimensions, many measures. Tableau prefers many dimensions and few measures. Pivoting. Prep handles this better than Desktop because of multiple response scales.
 
@@ -69,8 +67,8 @@ Survey data very wide. 360 survey data has multiple row about the same person as
 
 ---
 ## Monkeying About with Survey Data in Tableau Prep
-Level: Intermediate
-SquadRating: 
+
+**Level:** Intermediate | **SquadRating:** 
 
 Update of previous sessions at TC18. Sweet fan girl intro.
 
@@ -78,8 +76,8 @@ Update of previous sessions at TC18. Sweet fan girl intro.
 
 ---
 ## Optimal Sales Territory Planning
-Level: Advanced
-SquadRating: 
+
+**Level:** Advanced | **SquadRating:** 
 
 "Great intro with slicing products. Unitaskers.
 Another example of RServe
@@ -89,8 +87,8 @@ More interesting cleaning steps on this one"
 
 ---
 ## Tableau Prep Conductor: Configuring and Administering the new Data Management add-on
-Level: Intermediate
-SquadRating: 
+
+**Level:** Intermediate | **SquadRating:** 
 
 "For server administrators
 Prep Builder Champions who want to convince their org to use Conductor."
@@ -99,15 +97,15 @@ Prep Builder Champions who want to convince their org to use Conductor."
 
 ---
 ## Zen Master: Exploring and Using New Releases of Tableau and Tableau Prep
-Level: Everyone
-SquadRating: 
+
+**Level:** Everyone | **SquadRating:** 
 
 {% youtube W51HqEihYCI %}
 
 ---
 ## Cooking Data with Tableau Prep
-Level: Beginner
-SquadRating: 
+
+**Level:** Beginner | **SquadRating:** 
 
 Funny intro. Too bad wasn't on camera.
 
@@ -115,8 +113,8 @@ Funny intro. Too bad wasn't on camera.
 
 ---
 ## Data Prep Introduction: Learn the Basics
-Level: Beginner
-SquadRating: 
+
+**Level:** Beginner | **SquadRating:** 
 
 Dry reading of attempt at funny script
 
@@ -124,8 +122,8 @@ Dry reading of attempt at funny script
 
 ---
 ## State of Indiana: How Tableau Prep Saved Our End-user Experience
-Level: Advanced
-SquadRating: 
+
+**Level:** Advanced | **SquadRating:** 
 
 Their role is to consolidate 35+ data sources for all state agencies. Tiled dashboard each with vizes in tooltips. But UX suffered from loading delays. Improved by preprocessing in Prep. But recording didn't capture the live demo of his dashboard (just stayed on PPT slide), and he showed very little of what he actually built in prep.
 
@@ -133,8 +131,8 @@ Their role is to consolidate 35+ data sources for all state agencies. Tiled dash
 
 ---
 ## Bringing Data Science to the End-User with Tableau
-Level: Intermediate
-SquadRating: 
+
+**Level:** Intermediate | **SquadRating:** 
 
 Takes awhile to get going (Hands on prep starts at 15 minutes). Connecting to Python or R server. Not an impressive use of Prep. Just unioning some data and sending it to R, where the hard work happens. If you can do all the work to collect the data and set up the R server, you don’t need Prep for the really simple data unioning and scheduled run.
 
