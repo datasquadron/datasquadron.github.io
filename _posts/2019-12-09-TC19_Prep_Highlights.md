@@ -166,3 +166,12 @@ Takes awhile to get going (Hands on prep starts at 15 minutes). Connecting to Py
 {% youtube asngDqxdTJk %}
 
 ---
+## Zen Master: Tableau Speed Tipping
+
+**Level:** Intermediate | **SquadRating:** :star::star::star::star::star: (5 out of 5)
+
+First 10 minutes is devoted to Tableau Prep. An overview of some the user inteface improvements in Tableau Prep showing the ability to zoom in/out and view and pan across the flow easier. The feature to view data as lists or a column of fields as well as historgrams. The added functionality of connecting to cloud data connectors such as Box, Dropbox, Googledrive and OneDrive.
+
+{% youtube BxVPmFqhFHc %}
+
+---
