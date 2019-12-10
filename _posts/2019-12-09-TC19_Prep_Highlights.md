@@ -9,6 +9,33 @@ excerpt: "We review and rate 11 hours of Tableau Prep session videos from TC19"
 As usual, Tableau Conference 2019 was chock full of informative sessions, all of which are [published as YouTube videos](https://tc19.tableau.com/watch). Fifteen focused on Tableau Prep, for a total of 11 hours of viewing time. To help you make the most of your viewing time, we watched and reviewed each of the videos, and rated each on a 5-star "SquadRating" scale.
 
 ---
+## New Feature Announcements
+
+Both the Opening Keynote and Devs on Stage included new feature announcements for Tableau Prep. Here is a summary of the features, when they are expected, and which session they are shown in.
+
+| Feature             | When     | Session         |
+|---------------------|----------|-----------------|
+| Web Editing         | 2020     | Opening Keynote |
+| Write to Database   | 2020     | Opening Keynote |
+| List View           | 2019.3.2 | Devs on Stage   |
+| Fix LOD             | 2020     | Devs on Stage   |
+| Incremental Refresh | 2020     | Devs on Stage   |
+| Rank                | 2020     | Devs on Stage   |
+| Reusable Steps      | 2020     | Devs on Stage   |
+
+### Opening Keynote
+
+**Level**: Everyone | **SquadRating:** :star::star::star::star: (4 out of 5)
+
+{% youtube hz7ooKiurLM %}
+
+### Devs on Stage
+
+**Level**: Everyone | **SquadRating:** :star::star::star::star: (4 out of 5)
+
+{% youtube WWECV_a_aaA %}
+
+---
 ## Best Practices for Flow Performance in Data Prep
 
 **Level**: Beginner | **SquadRating:** :star::star::star::star::star: (5 out of 5)
