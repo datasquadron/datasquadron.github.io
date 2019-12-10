@@ -84,22 +84,22 @@ Good case study of using Prep for data cleaning
 {% youtube 6U_mrkAAifI %}
 
 ---
-## Center for Creative Leadership: Utilizing Tableau Prep to Put Your Data on a Diet
-
-**Level:** Intermediate | **SquadRating:** 
-
-Survey data very wide. 360 survey data has multiple row about the same person as different rater types. Few dimensions, many measures. Tableau prefers many dimensions and few measures. Pivoting. Prep handles this better than Desktop because of multiple response scales.
-
-{% youtube oBkvJMIzFP0 %}
-
----
 ## Monkeying About with Survey Data in Tableau Prep
 
-**Level:** Intermediate | **SquadRating:** 
+**Level:** Intermediate | **SquadRating:** :star::star::star::star::star: (5 out of 5)
 
-Update of previous sessions at TC18. Sweet fan girl intro.
+This is an update of a session from TC18, and is a must-watch for anyone working with survey data. Last year's presenter Archana Ganeshalingam is joined by her No. 1 fan girl from that session, Tanushree Rohera. Shows how to pivot wide survey data into a better shape for analysis, and how to deal with different survey response types, such as demographic attributes, single-selects, multi-selects and Likert scales. This year's session also covers how to perform sentiment analysis of free text responses using Script steps. 
 
 {% youtube VF7nHRQ3His %}
+
+---
+## Center for Creative Leadership: Utilizing Tableau Prep to Put Your Data on a Diet
+
+**Level:** Intermediate | **SquadRating:** :star::star::star::star: (4 out of 5)
+
+Another great session on dealing with very wide survey data sets, and how Tableau Prep has more powerful pivoting features than Tableau Desktop. This session also digs into the unique challenges when dealing with 360 employee evaluation survey data, which have multiple rows about the same person by different rater types. 
+
+{% youtube oBkvJMIzFP0 %}
 
 ---
 ## Optimal Sales Territory Planning
