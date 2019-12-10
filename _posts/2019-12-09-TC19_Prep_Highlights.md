@@ -47,9 +47,9 @@ Really awesome explanation of how Prep works and all the ways you can optimize p
 ---
 ## Data Prep: Advanced Prep Features
 
-**Level:** Intermediate | **SquadRating:** 
+**Level:** Intermediate | **SquadRating:** :star::star::star::star: (4 out of 5)
 
-Covers Data Interpretation, groups and data roles, scripts, LOD with Joins. Also an interesting lesson in credit card cash backs. Publishing data role. Script to lookup from an API. TabPy usually shown for running data science models, but can be used to hit an API. "Divide and Conquer"
+Anton Grinevskij uses the example of calculating his credit card cash backs to cover data interpretation, groups and data roles, scripts, and the "Divide and Conquer" method of using joins to accomplish LOD calculations. TabPy usually shown for running data science models, but he shows how it can also be used get data from an API.
 
 {% youtube m2efKWZvB-M %}
 
@@ -97,18 +97,16 @@ This is an update of a session from TC18, and is a must-watch for anyone working
 
 **Level:** Intermediate | **SquadRating:** :star::star::star::star: (4 out of 5)
 
-Another great session on dealing with very wide survey data sets, and how Tableau Prep has more powerful pivoting features than Tableau Desktop. This session also digs into the unique challenges when dealing with 360 employee evaluation survey data, which have multiple rows about the same person by different rater types. 
+Another great session on dealing with very wide survey data sets, and how Tableau Prep has more powerful pivoting features than Tableau Desktop. Michael Raper digs into the unique challenges when dealing with 360 employee evaluation survey data, which have multiple rows about the same person by different rater types. 
 
 {% youtube oBkvJMIzFP0 %}
 
 ---
 ## Optimal Sales Territory Planning
 
-**Level:** Advanced | **SquadRating:** 
+**Level:** Advanced | **SquadRating:** :star::star::star::star: (4 out of 5)
 
-"Great intro with slicing products. Unitaskers.
-Another example of RServe
-More interesting cleaning steps on this one"
+Good hands-on demonstration of using Tableau Prep to solve the very unique problem of territory optimization. Justin Kruger and Hunter Barcello cover both data cleaning in Tableau Prep and leveraging external scripts running in RServe, a feature that was not available in last year's iteration of this presentation.
 
 {% youtube cv5fTrKMRCU %}
 
@@ -132,25 +130,25 @@ Prep Builder Champions who want to convince their org to use Conductor."
 ---
 ## Cooking Data with Tableau Prep
 
-**Level:** Beginner | **SquadRating:** 
+**Level:** Beginner | **SquadRating:** :star::star::star::star: (4 out of 5)
 
-Funny intro. Too bad wasn't on camera.
+One of the more entertaining introductory videos. Too bad Jeff Black and Jeremy Walsh's introduction was not actuallly caught on video.
 
 {% youtube gaRJLpShEXM %}
 
 ---
 ## Data Prep Introduction: Learn the Basics
 
-**Level:** Beginner | **SquadRating:** 
+**Level:** Beginner | **SquadRating:** :star::star::star: (3 out of 5)
 
-Dry reading of attempt at funny script
+Super basic introduction to Tableau Prep features. Content is useful for novices, once you get past the very scripted attempt at humorous introduction. 
 
 {% youtube pL_xZIuJG30 %}
 
 ---
 ## State of Indiana: How Tableau Prep Saved Our End-user Experience
 
-**Level:** Advanced | **SquadRating:** 
+**Level:** Advanced | **SquadRating:** :star::star::star: (3 out of 5)
 
 Their role is to consolidate 35+ data sources for all state agencies. Tiled dashboard each with vizes in tooltips. But UX suffered from loading delays. Improved by preprocessing in Prep. But recording didn't capture the live demo of his dashboard (just stayed on PPT slide), and he showed very little of what he actually built in prep.
 
@@ -159,7 +157,7 @@ Their role is to consolidate 35+ data sources for all state agencies. Tiled dash
 ---
 ## Bringing Data Science to the End-User with Tableau
 
-**Level:** Intermediate | **SquadRating:** 
+**Level:** Intermediate | **SquadRating:** :star::star: (2 out of 5)
 
 Takes awhile to get going (Hands on prep starts at 15 minutes). Connecting to Python or R server. Not an impressive use of Prep. Just unioning some data and sending it to R, where the hard work happens. If you can do all the work to collect the data and set up the R server, you don’t need Prep for the really simple data unioning and scheduled run.
 
