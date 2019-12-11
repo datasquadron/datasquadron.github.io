@@ -2,7 +2,7 @@
 layout: post
 title: "TC19 Tableau Prep New Feature Annoucements"
 date: 2019-12-10
-cover: images/watch_tc19.png
+cover: images/tableau_showcase.png
 excerpt: "An overview of new Tableau Prep features announced at TC19"
 ---
 
