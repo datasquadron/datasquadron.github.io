@@ -6,14 +6,14 @@ cover: images/watch_tc19.png
 excerpt: "We review and rate 11 hours of Tableau Prep session videos from TC19"
 ---
 
-As usual, Tableau Conference 2019 was chock full of informative sessions, all of which are [published as YouTube videos](https://tc19.tableau.com/watch). Fifteen focused on Tableau Prep, for a total of 11 hours of viewing time. To help you make the most of your viewing time, we watched and reviewed each of the videos, and rated each on a 5-star "SquadRating" scale.
+As usual, Tableau Conference 2019 was chock full of informative sessions, all of which are [published as YouTube videos](https://tc19.tableau.com/watch). Fifteen focused on Tableau Prep, for a total of 11 hours of viewing time. To help you make the most of your viewing time, we watched and reviewed each of the videos, and rated each on a 5-star "SquadRating" scale. Presenters all had consistently good presentation skills, so we generally based our ratings on how well they weaved compelling topics into hands-on demos.
 
 ---
 ## Best Practices for Flow Performance in Data Prep
 
 **Level**: Beginner | **SquadRating:** :star::star::star::star::star: (5 out of 5)
 
-Really awesome explanation of how Prep works and all the ways you can optimize performance. 
+Christine Xu and Rapinder Jawanda provide a really awesome explanation of how Prep stores your data internally so you can understand how to design your flow to optimize performance. 
 
 {% youtube sa3rOIN_iKI %}
 
@@ -31,28 +31,34 @@ Anton Grinevskij uses the example of calculating his credit card cash backs to c
 
 **Level:** Beginner | **SquadRating:** :star::star::star::star::star: (5 out of 5)
 
+Samuel Osborn leads an excellent hands-on overview of Prep Build and Conductor features.
+
 {% youtube ZLPX_lNV0do %}
 
 ---
 ## Texas State University: Tips and Tricks for Tracking People Over Time with Tableau Prep Builder
 
-**Level:** Intermediate | **SquadRating:** 
+**Level:** Intermediate | **SquadRating:** :star::star::star::star::star: (5 out of 5) 
 
-Lots of hands on demos. Real-world tips and tricks. Good examples of data densification. Internal vs external scaffolding.
+G. Marc Turner's presentation is chock full of hands-on demos and real-world tips and tricks. Good examples of using internal vs external scaffolding to fill gaps in data.
 
 {% youtube sBVezD00jt0 %}
 
 ---
 ## Lake County Health Dept: Tableau Prep Builder and Conductor at Enterprise Scale
 
+**Level:** Intermediate | **SquadRating:** :star::star::star::star::star: (5 out of 5) 
+
+Jefferson McMillan-Wilhoit and Greg Gajauskas showcase their large scale implementation of the Tableau suite of products. They explain the pain points of life before Prep and why they chose Prep Build and Conductor over other solutions on the market. Their business case for adopting Prep Conductor was so compelling that they got funding on a week!
+
 {% youtube aBzIZaSa7Ik %}
 
 ---
 ## Tinuiti: Using Tableau Prep Builder and Conductor to Wrangle Marketing Data
 
-**Level:** Intermediate | **SquadRating:** 
+**Level:** Intermediate | **SquadRating:** :star::star::star::star: (4 out of 5)
 
-Good case study of using Prep for data cleaning
+Aarati Sriram and Andrew Richardson show how they used Prep to shift their organization's data wrangling-to-analysis time ratio from 79/21 to 18/82. Good hands-on demonstration of using Prep Builder to combine and align digital marketing data from different sources.
 
 {% youtube 6U_mrkAAifI %}
 
@@ -86,17 +92,18 @@ Good hands-on demonstration of using Tableau Prep to solve the very unique probl
 ---
 ## Tableau Prep Conductor: Configuring and Administering the new Data Management add-on
 
-**Level:** Intermediate | **SquadRating:** 
+**Level:** Intermediate | **SquadRating:** :star::star::star::star: (4 out of 5) 
 
-"For server administrators
-Prep Builder Champions who want to convince their org to use Conductor."
+Samuel Osborn and Steven McDonald dive deep into Conductor and Catalog, two Server-side products that are unlocked by purchasing the Data-Management Add-on. A great session for server administrators and Prep Builder Champions who want to convince their org to use Conductor.
 
 {% youtube jagAQ7km5Sg %}
 
 ---
 ## Zen Master: Exploring and Using New Releases of Tableau and Tableau Prep
 
-**Level:** Everyone | **SquadRating:** 
+**Level:** Everyone | **SquadRating:** :star::star::star: (3 out of 5) 
+
+Zen Master Joshua Milligan boldly explores Star Trek data with unreleased features of Tableau Desktop and Prep Builder. Fun and interesting, but the Tableau Prep portion is only about 12 minutes starting at 19:30.
 
 {% youtube W51HqEihYCI %}
 
